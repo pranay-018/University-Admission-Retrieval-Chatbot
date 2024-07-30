@@ -12,3 +12,14 @@ To set up the chatbot, ensure you have Python 3.x installed along with the requi
 
 ```bash
 pip install pandas numpy scikit-learn
+
+## Usage
+
+Once the script is running, you can start interacting with the chatbot by typing in your questions. The chatbot will analyze your query and respond with the most relevant answer from the dataset. To exit the chat, simply type quit.
+>> What are the admission requirements?
+BOT: The admission requirements include a completed application form, transcripts, and standardized test scores.
+
+>> Are there any scholarships available?
+BOT: Yes, we offer a variety of scholarships based on merit and financial need.
+
+>> quit
